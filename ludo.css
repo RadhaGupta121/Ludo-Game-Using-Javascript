@@ -1,0 +1,32 @@
+#ludo{
+    justify-content: space-around;
+    display: flex;
+}
+#main{
+    align-items: center;
+    position: relative;
+}
+#btn{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+#winner{
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    color: white;
+}
+*{
+    box-sizing: border-box;
+    margin: 0px;
+    padding: 0%;
+    background-color: rgb(29, 27, 27);
+}
+#clck{
+    background-color: yellowgreen;
+    height: 3rem;
+    width: 6rem;
+    border-radius: 40%;
+}
